@@ -12,6 +12,6 @@ LOS DATOS ESTÁN DISPONIBLES EJECUTANDO LAS CELDAS QUE ESTÁN DENTRO DE "CARGAR 
 
 
 ### Entrega 2
-Los CSV ya se encuentran dentro del repositorio, sin embargo también se pueden obtener a través del archivo 01 Generate Data.
-Para correr los scripts, solo se debe ejecutar el archivo 02_run_scripts.
-El archivo Dockerfile también se encuentra adjunto
+Los CSV ya se encuentran dentro del repositorio, sin embargo también se pueden obtener a través del archivo 01 Generate Data dentro de la carpeta Entrega 2.
+Para correr los scripts, solo se debe ejecutar el archivo 02_run_scripts que se encuentra dentro de la carpeta Entrega 2.
+El archivo Dockerfile también se encuentra adjunto dentro de la carpeta Entrega 2
