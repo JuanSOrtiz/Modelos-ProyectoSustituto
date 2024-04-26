@@ -2,7 +2,7 @@ FROM python:3.9
 
 ADD model.pkl .
 ADD predict.py .
-ADD runScripts.py .
+ADD 02_run_scripts.jpynb .
 ADD test_data_input.csv .
 ADD test_data_target.csv .
 ADD test.csv .
@@ -18,4 +18,3 @@ RUN pip install loguru
 RUN pip install argparse
 
 
-CMD ["python", "./runScripts.py"]
