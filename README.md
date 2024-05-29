@@ -17,7 +17,7 @@ Para correr los scripts, solo se debe ejecutar el archivo 02_run_scripts que se 
 El archivo Dockerfile también se encuentra adjunto dentro de la carpeta Entrega 2
 
 
-### Entrega 2
+### Entrega 3
 Todos los CSV ya se encuentran dentro del repositorio en la carpeta Entrega 3.
 Para correr los scripts primero se debe hacer build al container
 `docker build -t modelos-entrega3 .`
